@@ -12,12 +12,12 @@ I'm currently working on projects involving Next.js with NextAuth.js (App Router
 
 ## 📫 Let's Connect
 
-<p align="center">
+<p style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.linkedin.com/in/pranavkumar-desai-b27b8a252/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://x.com/pranavdesa1549">
-    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="border-radius: 5px;">
   </a>
   <a href="mailto:fullstackwebdeveloper123@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
